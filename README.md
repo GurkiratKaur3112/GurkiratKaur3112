@@ -69,7 +69,7 @@ AI-based fitness app providing real-time pose feedback via webcam.
 🎯 Built using React, Tailwind CSS, and TensorFlow.js  
 🎥 Real-time webcam-based pose detection  
 🎨 Clean UI with floating navbar & Aceternity UI components  
-🔗 [GitHub Repo](https://github.com/GurkiratKaur3112/PoseFit)
+🔗 [GitHub Repo](https://github.com/GurkiratKaur3112/pose-fit-yoga)
 
 ---
 
